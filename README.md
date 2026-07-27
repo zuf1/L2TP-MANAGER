@@ -4,7 +4,7 @@ Script interaktif untuk instalasi dan manajemen L2TP server di Ubuntu VPS. Diran
 
 ## Panduan Video
 
-https://youtu.be/x9Py3JSm-aI
+-
 
 ## Fitur Utama
 
