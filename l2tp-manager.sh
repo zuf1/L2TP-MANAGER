@@ -4,8 +4,8 @@
 # Auto Install & Configuration with Interactive Management
 # Created for Ubuntu/Debian systems
 #
-# GitHub: https://github.com/safrinnetwork/
-# Made by Mostech
+# GitHub: https://github.com/zuf1/L2TP-MANAGER/
+# Made by ZET TV
 
 # Get script directory
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -178,7 +178,7 @@ while true; do
             echo -e "${CYAN}      💻 Professional VPN Solution          ${NC}"
             echo -e "${CYAN}        Stay secure, stay connected!        ${NC}"
             echo -e "${CYAN}                                               ${NC}"
-            echo -e "${BLUE}            Made by Mostech                 ${NC}"
+            echo -e "${BLUE}            Made by ZET TV                 ${NC}"
             echo -e "${CYAN}===============================================${NC}\n"
             exit 0
             ;;
