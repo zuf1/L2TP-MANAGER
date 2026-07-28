@@ -18,7 +18,7 @@ Script interaktif untuk instalasi dan manajemen L2TP server di Ubuntu VPS. Diran
 
 1. **Download dan jalankan script:**
    ```bash
-   git clone https://github.com/safrinnetwork/L2TP-Manager/
+   git clone https://github.com/zuf1/L2TP-MANAGER
    cd L2TP-Manager
    chmod +x l2tp-manager.sh
    sudo ./l2tp-manager.sh
