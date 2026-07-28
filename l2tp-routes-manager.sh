@@ -64,7 +64,7 @@ get_l2tp_clients() {
 add_route() {
     echo -e "\n${CYAN}===============================================${NC}"
     echo -e "${CYAN}            Add Static Route               ${NC}"
-    echo -e "${BLUE}            Made by Mostech               ${NC}"
+    echo -e "${BLUE}            Made by ZET TV              ${NC}"
     echo -e "${CYAN}===============================================${NC}\n"
 
     # Show available L2TP clients
@@ -467,7 +467,7 @@ show_menu() {
     echo -e "${CYAN}===============================================${NC}"
     echo -e "${CYAN}     🔀 L2TP Static Routes Manager 🔀      ${NC}"
     echo -e "${CYAN}         Professional Edition              ${NC}"
-    echo -e "${BLUE}            Made by Mostech               ${NC}"
+    echo -e "${BLUE}            Made by ZET TV               ${NC}"
     echo -e "${CYAN}===============================================${NC}"
     echo
 
@@ -486,7 +486,7 @@ show_menu() {
     echo
     echo -e "${CYAN}===============================================${NC}"
     echo -e "${YELLOW}💡 Routes are auto-applied on service restart${NC}"
-    echo -e "${PURPLE}🔗 GitHub: https://github.com/safrinnetwork/${NC}"
+    echo -e "${PURPLE}🔗 GitHub: https://github.com/zuf1/${NC}"
     echo
 }
 
