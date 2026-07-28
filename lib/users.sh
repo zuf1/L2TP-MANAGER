@@ -1,7 +1,7 @@
 #!/bin/bash
 # Users Library
-# Made by Mostech
-# GitHub: https://github.com/safrinnetwork/
+# Made by ZET TV
+# GitHub: https://github.com/zuf1/L2TP-MANAGER/
 
 add_user_manual() {
     echo -e "\n${YELLOW}✏️  Manual User Entry...${NC}"
@@ -379,8 +379,8 @@ add_user_to_system() {
 add_user() {
     echo -e "\n${CYAN}===============================================${NC}"
     echo -e "${CYAN}              Add L2TP User               ${NC}"
-    echo -e "${BLUE}            Made by Mostech               ${NC}"
-    echo -e "${PURPLE}        github.com/safrinnetwork        ${NC}"
+    echo -e "${BLUE}             Made by ZET TV               ${NC}"
+    echo -e "${PURPLE}        https://github.com/zuf1/        ${NC}"
     echo -e "${CYAN}===============================================${NC}\n"
     
     echo -e "${YELLOW}Choose creation method:${NC}"
