@@ -1,7 +1,7 @@
 #!/bin/bash
 # Services Library
-# Made by Mostech
-# GitHub: https://github.com/safrinnetwork/
+# Made by ZET TV
+# GitHub: https://github.com/zuf1/L2TP-MANAGER/
 
 start_forwards() {
     log "Starting port forwards..."
