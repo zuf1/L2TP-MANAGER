@@ -1,14 +1,14 @@
 #!/bin/bash
 # Menu Library
-# Made by Mostech
-# GitHub: https://github.com/safrinnetwork/
+# Made by ZET TV
+# GitHub: https://github.com/zuf1/L2TP-MANAGER/
 
 show_status() {
     clear
     echo -e "\n${CYAN}===============================================================${NC}"
     echo -e "${CYAN}                     📊 Server Status                       ${NC}"
-    echo -e "${BLUE}                      Made by Mostech                       ${NC}"
-    echo -e "${PURPLE}                  github.com/safrinnetwork                 ${NC}"
+    echo -e "${BLUE}                       Made by ZET TV                       ${NC}"
+    echo -e "${PURPLE}             github.com/zuf1/L2TP-MANAGER/                ${NC}"
     echo -e "${CYAN}===============================================================${NC}"
     echo
     
@@ -91,7 +91,7 @@ show_menu() {
     echo -e "${CYAN}===============================================================${NC}"
     echo -e "${CYAN}                🚀 L2TP VPN Server Manager 🚀               ${NC}"
     echo -e "${CYAN}                     Professional Edition                     ${NC}"
-    echo -e "${BLUE}                      Made by Mostech                       ${NC}"
+    echo -e "${BLUE}                        Made by ZET TV                       ${NC}"
     echo -e "${CYAN}===============================================================${NC}"
     echo
     
@@ -172,7 +172,7 @@ show_menu() {
     echo
     echo -e "${CYAN}===============================================================${NC}"
     echo -e "${YELLOW}💡 Tip: Use Ctrl+C to cancel any operation${NC}"
-    echo -e "${PURPLE}🔗 GitHub: https://github.com/safrinnetwork/${NC}"
+    echo -e "${PURPLE}🔗 GitHub: https://github.com/zuf1/${NC}"
     echo
 }
 
