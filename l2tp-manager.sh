@@ -51,8 +51,8 @@ case "$1" in
         exit 0
         ;;
     "--help"|"-h")
-        echo "L2TP VPN Server Manager - Made by Mostech"
-        echo "GitHub: https://github.com/safrinnetwork/"
+        echo "L2TP VPN Server Manager - Made by ZET TV"
+        echo "GitHub: https://github.com/zuf1/"
         echo ""
         echo "Usage: $0 [OPTION]"
         echo ""
