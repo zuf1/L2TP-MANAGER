@@ -1,7 +1,7 @@
 #!/bin/bash
 # Forwards Library
-# Made by Mostech
-# GitHub: https://github.com/safrinnetwork/
+# Made by ZET TV
+# GitHub: https://github.com/zuf1/L2TP-MANAGER/
 
 add_port_forward_rule() {
     local name="$1"
